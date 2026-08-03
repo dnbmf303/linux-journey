@@ -9,15 +9,25 @@ My Linux learning journey with notes, labs and practice.
 - Build real-world skills
 - Prepare for Junior Linux Administrator interviews
 
+## 📚 Current Topic
+
+- ✅ Linux Navigation
+- ⏳ File System (Next)
+
+
 ## 📚 Progress
 
-- [ ] Linux Basics
+- [x] Linux Basics
 - [ ] File System
 - [ ] Permissions
 - [ ] Users and Groups
 - [ ] Processes
 - [ ] Networking
 - [ ] Bash Scripting
+
+## 🧪 Completed Labs
+
+- Lab 01 - Linux Navigation ✅
 
 ## 📁 Repository Structure
 

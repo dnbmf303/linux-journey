@@ -96,6 +96,41 @@ rm -r BAckup
 Be careful! rm delete permanently
 
 
+## 📂 Absolute vs Relative Path
+
+### Relative path
+
+Current directory:
+
+```text
+/home/anton
+```
+
+Open file:
+
+```bash
+cat Documents/backup.txt
+```
+
+---
+
+### Absolute path
+
+Works from anywhere:
+
+```bash
+cat /home/anton/Documents/backup.txt
+```
+
+---
+
+### Remember
+
+- **Absolute path** starts with `/`
+- **Relative path** starts from your current directory
+- `..` means "go one directory up"
+- `.` means "current directory"
+
 
 
 

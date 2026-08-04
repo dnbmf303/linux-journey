@@ -131,7 +131,27 @@ cat /home/anton/Documents/backup.txt
 - `..` means "go one directory up"
 - `.` means "current directory"
 
+## 🧭 Working with Relative Paths
 
+Example:
+
+Current directory:
+
+```text
+/home/anton/Documents
+```
+
+File location:
+
+```text
+/home/anton/Music/song.mp3
+```
+
+Relative path:
+
+```bash
+../Music/song.mp3
+```
 
 
 '''bash
